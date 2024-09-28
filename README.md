@@ -31,12 +31,12 @@ Este proyecto es una aplicación móvil creada en **React Native** que incluye d
 ### Conversor de Monedas 💱
 Convierte entre diferentes monedas (USD, EUR, GBP, JPY, MXN, ARS, CAD, PYG).
 
-![Conversor](https://image-placeholder-link.com/conversor)
+Conversor
 
 ### Cotización del Dólar 🇵🇾
 Muestra la cotización del dólar en las casas de cambio mencionadas.
 
-![DolarPY](https://image-placeholder-link.com/dolarpy)
+DolarPY
 
 ## 🔧 Instalación
 
