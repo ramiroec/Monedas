@@ -42,17 +42,17 @@ DolarPY
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/conversor-dolarpy-app.git
+   git clone https://github.com/ramiroec/Monedas.git
    ```
 2. Instala las dependencias:
    ```bash
-   cd conversor-dolarpy-app
+   cd Monedas
    npm install
    ```
 3. Corre la aplicación:
    ```bash
-   npx react-native run-android # Para Android
-   npx react-native run-ios # Para iOS
+   npm run android # Para Android
+   npm run ios # Para iOS
    ```
 
 ## 📦 API
